@@ -1,0 +1,27 @@
+div {
+  background-color: aqua;
+  text-align: center;
+  width: 100%;
+}
+table{
+  width: 100%;
+  text-align: right;
+}
+tr:nth-child(odd) {background-color: plum;}
+td {
+  text-align: center;
+}
+
+th{
+  height: 70%;
+  background-color: blue;
+  text-align: center;
+}
+td.gh{
+  text-align: right;
+}
+td.rh{
+  text-align: left;
+  font-style: initial;
+  font-weight: bold;
+}
